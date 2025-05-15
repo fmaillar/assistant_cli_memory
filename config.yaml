@@ -1,3 +1,22 @@
+# Configuration du moteur
 openai_model: gpt-4o
 temperature: 0.7
 memory_file: memory/memory.json
+
+# Scripts CLI disponibles
+scripts:
+  classique:
+    path: entrypoints/main_classique.py
+    description: Assistant terminal standard
+
+  documents:
+    path: entrypoints/main_documents.py
+    description: Assistant avec capacité de traitement de documents
+
+  starter:
+    path: entrypoints/starter.py
+    description: Test de chargement IA_Florian + conversations
+  
+  starter_interactif:
+    path: entrypoints/starter_interactif.py
+    description: Session interactive IA_Florian avec chargement du profil et historique

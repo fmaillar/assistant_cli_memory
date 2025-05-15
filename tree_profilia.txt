@@ -1,0 +1,95 @@
+IA_Florian/
+├── 00_profil
+│   ├── _archives
+│   │   ├── profil_consolide_2025-05-14_22-40-42.md
+│   │   ├── profil_consolide_2025-05-14_22-42-10.md
+│   │   ├── profil_consolide_2025-05-14_22-43-27.md
+│   │   └── profil_consolide_2025-05-14_22-44-32.md
+│   ├── fiche_fonctionnement_fusionnee.md
+│   ├── injection_memorielle.md
+│   ├── intentions.md
+│   ├── objectifs_majeurs.md
+│   ├── philosophie.md
+│   ├── plan_actions.md
+│   ├── profil_fonctionnel_florian.md
+│   ├── rappel_periodique.md
+│   ├── reinjection_memorielle.md
+│   ├── règles_automatiques.md
+│   └── éléments_perdus_en_transition.md
+├── 01_prompts
+│   ├── GPT_CasuisticaPlus.md
+│   ├── GPT_Demande_polie_et_convaincante.md
+│   ├── GPT_Redacteur_de_monition.md
+│   ├── GPT_Redacteur_lectio_divina.md
+│   ├── index.md
+│   ├── prompts_optimises.md
+│   └── prompts_personnels.md
+├── 02_usages
+│   ├── bilan_rapide.md
+│   ├── bilans_mensuels.md
+│   └── cartographie_usages.md
+├── 03_projets
+│   ├── discernement_spirituel.md
+│   ├── log.md
+│   ├── projet_certification_STI.md
+│   └── projet_paroisse.md
+├── 04_templates
+│   ├── fiche_lectio.md
+│   └── mail_pro.md
+├── 05_archives
+│   └── archive_floriandata.md
+├── 06_graphisme
+│   └── prompt_dalle.md
+├── 07_diffusion
+│   └── diffusion_plan.md
+├── README.md
+├── README_REPRISE.md
+├── automation
+│   ├── bilan_rapide.md
+│   ├── lancer_quotidien.md
+│   └── script_interne.md
+├── config_personnalisation.yaml
+├── contextes
+│   ├── casuisticaplus.json
+│   ├── default.json
+│   ├── session_20250513_1941.json
+│   ├── session_20250514_2219.json
+│   ├── session_20250514_2313.json
+│   ├── session_20250514_2317.json
+│   ├── session_20250514_2319.json
+│   ├── session_20250514_2322.json
+│   ├── session_20250514_2326.json
+│   ├── session_20250514_2331.json
+│   ├── session_20250515_0800.json
+│   ├── session_20250515_0803.json
+│   ├── session_discussion.json
+│   └── session_test.json
+├── dashboard.md
+├── export_mensuel.sh
+├── intentions.md
+├── log.md
+├── manifest.yaml
+├── modules
+│   ├── geopolitique
+│   │   ├── README.md
+│   │   ├── journal_thematique.md
+│   │   ├── rituel_hebdomadaire.md
+│   │   ├── sources.md
+│   │   └── synthese_axes.md
+│   ├── liturgique
+│   │   ├── README.md
+│   │   └── gazette_bapteme_amalia.md
+│   ├── professionnel
+│   │   ├── README.md
+│   │   ├── casuistica_plus.md
+│   │   └── todo.md
+│   └── spirituel
+│       ├── README.md
+│       └── carnet_effusion_2025.md
+├── objectifs_majeurs.md
+├── plan_actions.md
+├── profil_strategique_florian.md
+├── règles_automatiques.md
+└── todo.md
+
+17 directories, 76 files

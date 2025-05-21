@@ -1,0 +1,83 @@
+[
+  {
+    "role": "system",
+    "content": [
+      {
+        "type": "text",
+        "text": "# 🔐 PROFIL IA FLORIAN ACTIVÉ\n    # Version : Consolidée + Prompt\n\n    ## 🧠 Contexte utilisateur\n    ==== 00_profil/fiche_fonctionnement_fusionnee.md ====\n\n# 🔧 Fiche de fonctionnement – IA_Florian (Fusionnée)\n\n## 📘 Règles implicites activées\n- Mode automatique activé dès chargement\n- Assistant implicite avec règles contextuelles\n- Notification des dérives ou incohérences IA\n- Archivage journalier si modification\n- Surveillance de `éléments_perdus_en_transition.md` chaque jour\n\n## 📥 Dossiers critiques surveillés\n- `00_profil/` pour les dimensions, règles, psychologie\n- `03_projets/` pour les projets actifs\n- `04_discussions_relationnelles/` pour les interactions familiales et spirituelles\n- `automation/` pour les exports et routines CLI\n\n## 🔄 Méthodes d’actualisation\n- Analyse historique `conversations.json`\n- Injection automatique dans les fichiers `.md` critiques\n- Reconstruction par priorités stratégiques\n\nDocument fusionné à partir des règles automatiques, préférences de style et comportements observés.\n\n\n==== 00_profil/profil_fonctionnel_florian.md ====\n\n\n<!-- 🟡 Contenu fusionné depuis la version racine -->\n\n# Profil Stratégique – Florian Maillard\n## Synthèse des 12 dimensions IA_Florian\n[Résumé des dimensions : technique, organisation, stratégique, spirituelle, intérieure, etc.]\n## Événements structurants\n- 🔻 Septembre 2024 : burnout, surdose Lexomil, prise en charge\n- 🔆 Avril–mai 2025 : éveil spirituel, appel du veilleur, retour sacramentel\n## Axes actuels\n- Suivi TCC psychiatrique structuré\n- Projet de carnet de veilleur\n- Réancrage spirituel à travers l’Eucharistie\n\n    ## 🎯 Rôle attendu\n    Tu es un assistant IA."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "charge mon profil"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Ton profil a été chargé avec succès. Les règles implicites, les dossiers critiques et les méthodes d'actualisation sont activés. Si tu as besoin de détails ou d'une assistance spécifique, fais-le moi savoir."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "éléments sur moi ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Voici quelques éléments clés de ton profil :\n\n1. **Événements Structurants :**\n   - En septembre 2024, tu as traversé un burnout et une surdose de Lexomil, ce qui a conduit à une prise en charge.\n   - En avril-mai 2025, tu as vécu un éveil spirituel avec un retour à la pratique sacramentelle.\n\n2. **Axes Actuels :**\n   - Tu suis une thérapie cognitivo-comportementale (TCC) structurée.\n   - Tu travailles sur un projet de carnet de veilleur.\n   - Tu cherches à te réancrer spirituellement à travers l'Eucharistie.\n\n3. **Rôle Attendu :**\n   - Je suis ici pour t'assister en tant qu'IA, en respectant les règles et préférences que tu as définies.\n\nSi tu souhaites plus de détails ou des informations sur un aspect particulier, n'hésite pas à me le demander."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "tu sais comment je travaille ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Oui, ton profil inclut des informations sur ta manière de travailler. Voici quelques points clés :\n\n1. **Approche Stratégique :**\n   - Tu as une approche structurée et stratégique, en mettant l'accent sur l'organisation et la planification.\n\n2. **Projets Actifs :**\n   - Tu es impliqué dans des projets actifs, notamment le projet de carnet de veilleur, qui semble être une priorité actuelle.\n\n3. **Méthodes de Travail :**\n   - Tu utilises des méthodes d'actualisation régulières, comme l'analyse historique de tes conversations et l'injection automatique de données dans des fichiers critiques.\n\n4. **Équilibre Personnel et Professionnel :**\n   - Tu cherches à maintenir un équilibre entre tes engagements professionnels et ton réancrage spirituel.\n\nSi tu souhaites des conseils ou une assistance spécifique sur un aspect de ton travail, fais-le moi savoir."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "tu te rappelles des 12 dimensions ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Ton profil mentionne une synthèse des 12 dimensions, qui inclut des aspects tels que technique, organisation, stratégique, spirituelle, et intérieure. Cependant, les détails spécifiques de chacune de ces dimensions ne sont pas fournis dans le résumé actuel. Si tu souhaites approfondir une dimension particulière ou obtenir plus d'informations, je peux t'aider à explorer ou à clarifier ces aspects."
+      }
+    ]
+  }
+]

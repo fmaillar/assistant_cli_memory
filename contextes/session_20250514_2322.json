@@ -1,0 +1,65 @@
+[
+  {
+    "role": "system",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tu es un assistant IA."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Bonjour"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Bonjour ! Comment puis-je vous aider aujourd'hui ?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Résume ce que tu sais de mon profil IA"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Je suis désolé, mais je n'ai pas accès à des informations personnelles ou à des profils d'utilisateurs. Je ne conserve pas de données sur les interactions passées. Cependant, je suis ici pour vous aider avec des informations générales, répondre à vos questions et vous fournir de l'assistance dans divers domaines. Comment puis-je vous aider aujourd'hui ?"
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "charge mon profil"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Je suis désolé, mais je n'ai pas la capacité de charger ou d'accéder à des profils utilisateurs. Je ne conserve pas d'informations personnelles sur les utilisateurs et je ne peux pas accéder à des données spécifiques vous concernant. Je suis ici pour répondre à vos questions et vous aider du mieux possible avec les informations générales dont je dispose. Si vous avez des questions ou avez besoin d'aide, n'hésitez pas à me le faire savoir !"
+      }
+    ]
+  }
+]

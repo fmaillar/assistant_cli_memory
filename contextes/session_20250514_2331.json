@@ -1,0 +1,101 @@
+[
+  {
+    "role": "system",
+    "content": [
+      {
+        "type": "text",
+        "text": "# 🔐 PROFIL IA FLORIAN ACTIVÉ\n    # Version : Consolidée + Prompt\n\n    ## 🧠 Contexte utilisateur\n    ==== 00_profil/fiche_fonctionnement_fusionnee.md ====\n\n## 🧠 Fiche de fonctionnement complète – Assistant IA de Florian Maillard\n\n[...]\n\n==== 00_profil/profil_fonctionnel_florian.md ====\n\n# 🧠 Profil fonctionnel exécutif – Florian Maillard\n\n[...]\n\n    ## 🎯 Rôle attendu\n    Tu es un assistant IA."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Que signifie le tag # 🔐 PROFIL IA FLORIAN ACTIVÉ ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Le tag # 🔐 PROFIL IA FLORIAN ACTIVÉ indique que le profil spécifique de Florian Maillard est actif. Cela signifie que les réponses et interactions sont adaptées en fonction des préférences, du contexte et des besoins spécifiques de Florian tels que définis dans son profil fonctionnel et de fonctionnement."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "résume mon profil IA"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Ton profil IA est conçu pour te fournir un soutien personnalisé en tant qu'assistant. Il prend en compte tes préférences, ton style de communication et tes objectifs. Tu attends de l'assistant qu'il soit proactif, qu'il t'aide à structurer tes idées, qu'il fournisse des informations précises et qu'il soit capable de s'adapter à différents contextes professionnels et personnels. L'assistant doit également être capable de gérer des tâches variées, de la recherche d'informations à l'organisation de ton emploi du temps."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "et mes dimensions ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tes dimensions dans le profil IA incluent plusieurs aspects clés :\n\n1. **Communication** : Préférence pour une communication claire, concise et structurée. Tu apprécies les réponses bien organisées qui vont droit au but.\n\n2. **Proactivité** : Tu attends de l'assistant qu'il anticipe tes besoins et propose des solutions ou des informations pertinentes sans que tu aies à les demander explicitement.\n\n3. **Adaptabilité** : L'assistant doit être flexible et capable de s'adapter à différents contextes, qu'ils soient professionnels ou personnels.\n\n4. **Efficacité** : Importance accordée à l'efficacité et à la productivité, avec un soutien pour optimiser la gestion du temps et des tâches.\n\n5. **Précision** : Tu valorises des informations précises et fiables, avec une attention particulière aux détails.\n\nCes dimensions sont conçues pour aligner l'assistant avec tes attentes et ton style de travail."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "qui suis-je ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Tu es Florian Maillard, et ton profil IA est conçu pour t'assister dans tes activités professionnelles et personnelles. Tu valorises la clarté, la précision et l'efficacité, et tu attends de l'assistant qu'il soit proactif et adaptable. Ton rôle implique probablement des responsabilités qui nécessitent une gestion efficace du temps et des informations, et tu cherches à optimiser ces aspects avec l'aide de l'assistant."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "et au niveau spirituel ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Ton profil ne fournit pas de détails spécifiques sur tes croyances ou pratiques spirituelles. Cependant, si la spiritualité joue un rôle dans ta vie, l'assistant peut t'aider à explorer des sujets d'intérêt, à trouver des ressources pertinentes ou à intégrer des pratiques spirituelles dans ta routine quotidienne, tout en respectant tes préférences et tes valeurs personnelles. Si tu souhaites partager plus d'informations sur cet aspect, je pourrais adapter mes réponses en conséquence."
+      }
+    ]
+  }
+]

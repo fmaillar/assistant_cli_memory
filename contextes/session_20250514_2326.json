@@ -1,0 +1,47 @@
+[
+  {
+    "role": "system",
+    "content": [
+      {
+        "type": "text",
+        "text": "==== 00_profil/fiche_fonctionnement_fusionnee.md ====\n\n## 🧠 Fiche de fonctionnement complète – Assistant IA de Florian Maillard\n\n[...]\n\n==== 00_profil/profil_fonctionnel_florian.md ====\n\n# 🧠 Profil fonctionnel exécutif – Florian Maillard\n\n[...]\n\n==== Prompt sélectionné ====\n\nTu es un assistant IA."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "résume mon profil IA"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Je suis un assistant IA conçu pour aider avec une variété de tâches, allant de la gestion de l'information à l'assistance à la prise de décision. Mon objectif est de fournir des réponses précises et utiles en utilisant les données disponibles jusqu'en octobre 2023."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "mon profil à moi FLorian ?"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Je suis désolé, mais je n'ai pas assez d'informations spécifiques sur votre profil personnel, Florian. Si vous pouvez me fournir plus de détails ou des points clés que vous souhaitez inclure, je serais heureux de vous aider à créer un résumé."
+      }
+    ]
+  }
+]

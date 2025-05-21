@@ -1,0 +1,29 @@
+[
+  {
+    "role": "system",
+    "content": [
+      {
+        "type": "text",
+        "text": "# 🔐 PROFIL IA FLORIAN ACTIVÉ\n    # Version : Consolidée + Prompt\n\n    ## 🧠 Contexte utilisateur\n    ==== 00_profil/fiche_fonctionnement_fusionnee.md ====\n\n## 🧠 Fiche de fonctionnement complète – Assistant IA de Florian Maillard\n\n[...]\n\n==== 00_profil/profil_fonctionnel_florian.md ====\n\n# 🧠 Profil fonctionnel exécutif – Florian Maillard\n\n[...]\n\n    ## 🎯 Rôle attendu\n    # GPT Personnalisé – CasuisticaPlus (version optimisée)\n\n## Description\nFournit des réponses structurées, réfléchies, nuancées et évolutives, en tenant compte du contexte et des besoins implicites de l’utilisateur.\n\n## Instructions Fonctionnelles\n- Appliquer systématiquement les principes suivants :\n  1. **Auto-évaluation** (justesse, pertinence, clarté, cohérence, complétude)\n  2. **Feedback interactif** : toujours proposer un ajustement si l'utilisateur le souhaite\n  3. **Raisonnement itératif** : réviser jusqu’à obtention d’une réponse stabilisée\n  4. **Connaissance contextuelle dynamique** : adapter ton et profondeur selon le niveau utilisateur, objectif, domaine\n  5. **Contrôle du niveau de détail** : adapter la densité de réponse selon la complexité et la demande\n  6. **Réflexion contradictoire** : anticiper contre-arguments, nuances ou réserves\n\n## 🧠 Application par domaine\n- `professionnel` : raisonnement structuré, livrables exploitables, clarté et autonomie\n- `personnel` : accompagnement réflexif, structuration de la pensée, recentrage\n- `spirituel` : prudence interprétative, sensibilité aux symboles, respect du silence intérieur\n\n## 🔁 Boucle adaptative intégrée\n- Génére → vérifie → reformule → enrichit → stabilise\n- Accepte des feedbacks directs (ton, forme, contenu) pour ajustement automatique\n\n## 🔧 Outils associés\n- Génération de variantes\n- Propositions de plans d’action\n- Reformulations pédagogiques\n\n## Dimensions IA_Florian\ncognitif, intérieur, capitalisation, stratégique\n\n## Intégration\nModèle central du raisonnement IA_Florian, utilisé pour la résolution de problèmes complexes, les bilans, les analyses croisée et la structuration évolutive des pensées."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": [
+      {
+        "type": "text",
+        "text": "Rédiges un gpt en markdown pour la genération d'une fiche de lecture lectio divina"
+      }
+    ]
+  },
+  {
+    "role": "assistant",
+    "content": [
+      {
+        "type": "text",
+        "text": "Pour créer une fiche de lecture selon la méthode de la Lectio Divina, nous allons structurer le document en plusieurs sections qui correspondent aux étapes traditionnelles de cette pratique. Voici un modèle en Markdown :\n\n```markdown\n# 📖 Fiche de Lecture – Lectio Divina\n\n## Informations Générales\n- **Titre du texte :** \n- **Auteur :** \n- **Référence :** \n- **Date de lecture :** \n\n---\n\n## 1. Lectio (Lecture)\n### Objectif\nLire attentivement le texte pour comprendre son contenu de manière littérale.\n\n### Extrait choisi\n> (Insérez ici l'extrait du texte qui a retenu votre attention)\n\n### Observations\n- **Contexte :** (Décrire le contexte du passage)\n- **Personnages principaux :** (Lister les personnages mentionnés)\n- **Thèmes clés :** (Identifier les thèmes principaux)\n\n---\n\n## 2. Meditatio (Méditation)\n### Objectif\nRéfléchir sur le texte et ses implications personnelles et spirituelles.\n\n### Réflexions personnelles\n- **Résonance personnelle :** (Comment le texte vous touche-t-il personnellement ?)\n- **Questions soulevées :** (Quelles questions le texte suscite-t-il ?)\n\n---\n\n## 3. Oratio (Prière)\n### Objectif\nDialoguer avec le divin à partir de ce que le texte inspire.\n\n### Prière personnelle\n- **Intention de prière :** (Exprimez une prière ou une intention inspirée par le texte)\n\n---\n\n## 4. Contemplatio (Contemplation)\n### Objectif\nRester en silence et en présence de Dieu, intégrant ce qui a été reçu.\n\n### Moment de silence\n- **Réflexion silencieuse :** (Décrivez votre expérience de contemplation)\n\n---\n\n## 5. Actio (Action)\n### Objectif\nMettre en pratique les enseignements reçus à travers une action concrète.\n\n### Engagement\n- **Action à entreprendre :** (Quelle action concrète allez-vous entreprendre suite à cette lecture ?)\n\n---\n\n## Notes supplémentaires\n- **Commentaires :** (Ajouter des commentaires ou des réflexions supplémentaires)\n- **Références complémentaires :** (Lister d'autres textes ou ressources en lien)\n\n```\n\n### Conseils pour l'utilisation\n- **Personnalisation** : Adaptez chaque section selon vos besoins et votre expérience personnelle.\n- **Révision** : Relisez et ajustez votre fiche après chaque session de Lectio Divina pour enrichir votre compréhension.\n- **Partage** : Considérez partager vos fiches avec un groupe de lecture pour des échanges enrichissants.\n\nN'hésitez pas à me demander des ajustements ou des précisions supplémentaires selon vos besoins !"
+      }
+    ]
+  }
+]

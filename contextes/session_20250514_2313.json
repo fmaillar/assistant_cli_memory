@@ -1,0 +1,19 @@
+[
+  {
+    "role": "system",
+    "content": [
+      {
+        "role": "system",
+        "content": "Tu es un assistant IA."
+      }
+    ]
+  },
+  {
+    "role": "user",
+    "content": "mon profil est il chargé, si oui détaille"
+  },
+  {
+    "role": "user",
+    "content": "hein ?"
+  }
+]

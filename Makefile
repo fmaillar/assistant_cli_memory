@@ -2,6 +2,10 @@
 
 PYTHON=python
 
+prompt-conversations:
+	@echo "🔄 Génération du prompt conversations..."
+	@$(PYTHON) generate_prompt_from_index.py --all
+
 run:
 	@$(PYTHON) entrypoints/launcher.py
 
@@ -26,7 +30,32 @@ archive:
 	@echo "✔ Archive générée : IA_Florian_$(shell date +%Y-%m-%d).zip"
 
 index_prompts:
-	$(PYTHON) utils/prompts_indexer.py
+	@$(PYTHON) utils/prompts_indexer.py
+
+sync_drive:
+	@$(PYTHON) -c "from drive_sync import upload_file; upload_file('IA_Florian_2025-05-21.zip', '1bLROt0vI6YLPKcQ4lJ2YT0SaDtc070jW')"
+
+archive_sync:
+	@$(PYTHON) archive_and_sync.py
+
+log:
+	@echo "📘 Historique des sauvegardes :"
+	@cat log_sauvegardes.md
+
+rotate:
+	python3 rotation_archives.py
+
+archive_sync_rotate:
+	@$(PYTHON) archive_and_sync.py
+	@$(PYTHON) rotation_archives.py
+
+clean_local:
+	@$(PYTHON) nettoyage_local.py
+
+routine_hebdo:
+	@$(PYTHON) archive_and_sync.py
+	@$(PYTHON) rotation_archives.py
+	@$(PYTHON) nettoyage_local.py
 
 help:
 	@echo "📘 Commandes disponibles :"

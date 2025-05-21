@@ -7,7 +7,6 @@ from utils.contexte_ia_florian import ContexteIAFlorian
 
 client = OpenAI(api_key=os.getenv("OPEN_API_KEY"))
 contexte = ContexteIAFlorian(session_name="florian_auto")
-contexte.charger_extraits_conversations("IA_Florian/05_archives/conversations/conversations_2025-05-15.json")
 
 contexte.ajouter_user("Montre-moi les projets actifs liés à la paroisse.")
 response = client.chat.completions.create(

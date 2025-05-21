@@ -29,6 +29,17 @@ class ContexteIAFlorian:
 {prompt_selectionne.strip()}
 """.strip()
 
+        # === Ajout du prompt conversations, si disponible
+        conversations_prompt_path = self.profil_path / "cache/prompt_system_conversations.txt"
+        if conversations_prompt_path.exists():
+            with open(conversations_prompt_path, "r", encoding="utf-8") as f:
+                prompt_conversations = f.read().strip()
+            if prompt_conversations:
+                prompt_systeme += f"\n\n{prompt_conversations}"
+                print("🧠 Prompt conversations injecté dans le système.")
+        else:
+            print("ℹ️ Aucun prompt conversations trouvé.")
+
         self.messages.insert(0, {
             "role": "system",
             "content": prompt_systeme
@@ -45,21 +56,4 @@ class ContexteIAFlorian:
 
     def exporter(self):
         return self.messages
-
-    def charger_extraits_conversations(self, chemin_json):
-        chemin = Path(chemin_json)
-        if not chemin.exists():
-            return
-
-        with open(chemin, encoding="utf-8") as f:
-            data = json.load(f)
-
-        extraits = []
-        for conv in data[:3]:
-            messages = conv.get("mapping", {})
-            contenu = [m.get("message", {}).get("content", {}).get("parts", [""])[0] for m in messages.values() if m.get("message")]
-            if contenu:
-                extraits.append("\n".join(contenu[:2]))
-
-        if extraits:
-            self.ajouter_user("Voici des extraits de conversations passées :\n" + "\n---\n".join(extraits))
+ 

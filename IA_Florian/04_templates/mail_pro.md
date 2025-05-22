@@ -1,0 +1,3 @@
+# 📬 Template : mail professionnel
+
+Prompt : [...]

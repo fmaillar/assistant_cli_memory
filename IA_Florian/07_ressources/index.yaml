@@ -1,0 +1,500 @@
+- sujet: Création récursive de dossiers dans Outlook via VBA
+  tag: vba
+  fichier: automatisation.md
+  lignes: 10-19
+
+- sujet: Redirection silencieuse de script BAT avec VBS
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 20-29
+
+- sujet: Boucle shell avec affichage formaté par fichier
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 30-39
+
+- sujet: Snippet technique #4
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 40-49
+
+- sujet: Snippet technique #5
+  tag: python
+  fichier: outils_cli.md
+  lignes: 50-59
+
+- sujet: Snippet technique #6
+  tag: vba
+  fichier: automatisation.md
+  lignes: 60-69
+
+- sujet: Snippet technique #7
+  tag: git
+  fichier: outils_cli.md
+  lignes: 70-79
+
+- sujet: Snippet technique #8
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 80-89
+
+- sujet: Snippet technique #9
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 90-99
+
+- sujet: Snippet technique #10
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 100-109
+
+- sujet: Snippet technique #11
+  tag: make
+  fichier: automatisation.md
+  lignes: 110-119
+
+- sujet: Snippet technique #12
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 120-129
+
+- sujet: Snippet technique #13
+  tag: network
+  fichier: admin_sys.md
+  lignes: 130-139
+
+- sujet: Snippet technique #11
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 140-149
+
+- sujet: Snippet technique #12
+  tag: python
+  fichier: outils_cli.md
+  lignes: 150-159
+
+- sujet: Snippet technique #13
+  tag: vba
+  fichier: automatisation.md
+  lignes: 160-169
+
+- sujet: Snippet technique #14
+  tag: git
+  fichier: outils_cli.md
+  lignes: 170-179
+
+- sujet: Snippet technique #15
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 180-189
+
+- sujet: Snippet technique #16
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 190-199
+
+- sujet: Snippet technique #17
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 200-209
+
+- sujet: Snippet technique #18
+  tag: make
+  fichier: automatisation.md
+  lignes: 210-219
+
+- sujet: Snippet technique #19
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 220-229
+
+- sujet: Snippet technique #20
+  tag: network
+  fichier: admin_sys.md
+  lignes: 230-239
+
+- sujet: Snippet technique #21
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 240-249
+
+- sujet: Snippet technique #22
+  tag: python
+  fichier: outils_cli.md
+  lignes: 250-259
+
+- sujet: Snippet technique #23
+  tag: vba
+  fichier: automatisation.md
+  lignes: 260-269
+
+- sujet: Snippet technique #24
+  tag: git
+  fichier: outils_cli.md
+  lignes: 270-279
+
+- sujet: Snippet technique #25
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 280-289
+
+- sujet: Snippet technique #26
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 290-299
+
+- sujet: Snippet technique #27
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 300-309
+
+- sujet: Snippet technique #28
+  tag: make
+  fichier: automatisation.md
+  lignes: 310-319
+
+- sujet: Snippet technique #29
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 320-329
+
+- sujet: Snippet technique #30
+  tag: network
+  fichier: admin_sys.md
+  lignes: 330-339
+
+- sujet: Snippet technique #31
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 340-349
+
+- sujet: Snippet technique #32
+  tag: python
+  fichier: outils_cli.md
+  lignes: 350-359
+
+- sujet: Snippet technique #33
+  tag: vba
+  fichier: automatisation.md
+  lignes: 360-369
+
+- sujet: Snippet technique #34
+  tag: git
+  fichier: outils_cli.md
+  lignes: 370-379
+
+- sujet: Snippet technique #35
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 380-389
+
+- sujet: Snippet technique #36
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 390-399
+
+- sujet: Snippet technique #37
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 400-409
+
+- sujet: Snippet technique #38
+  tag: make
+  fichier: automatisation.md
+  lignes: 410-419
+
+- sujet: Snippet technique #39
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 420-429
+
+- sujet: Snippet technique #40
+  tag: network
+  fichier: admin_sys.md
+  lignes: 430-439
+
+- sujet: Snippet technique #41
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 440-449
+
+- sujet: Snippet technique #42
+  tag: python
+  fichier: outils_cli.md
+  lignes: 450-459
+
+- sujet: Snippet technique #43
+  tag: vba
+  fichier: automatisation.md
+  lignes: 460-469
+
+- sujet: Snippet technique #44
+  tag: git
+  fichier: outils_cli.md
+  lignes: 470-479
+
+- sujet: Snippet technique #45
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 480-489
+
+- sujet: Snippet technique #46
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 490-499
+
+- sujet: Snippet technique #47
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 500-509
+
+- sujet: Snippet technique #48
+  tag: make
+  fichier: automatisation.md
+  lignes: 510-519
+
+- sujet: Snippet technique #49
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 520-529
+
+- sujet: Snippet technique #50
+  tag: network
+  fichier: admin_sys.md
+  lignes: 530-539
+
+- sujet: Snippet technique #51
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 540-549
+
+- sujet: Snippet technique #52
+  tag: python
+  fichier: outils_cli.md
+  lignes: 550-559
+
+- sujet: Snippet technique #53
+  tag: vba
+  fichier: automatisation.md
+  lignes: 560-569
+
+- sujet: Snippet technique #54
+  tag: git
+  fichier: outils_cli.md
+  lignes: 570-579
+
+- sujet: Snippet technique #55
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 580-589
+
+- sujet: Snippet technique #56
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 590-599
+
+- sujet: Snippet technique #57
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 600-609
+
+- sujet: Snippet technique #58
+  tag: make
+  fichier: automatisation.md
+  lignes: 610-619
+
+- sujet: Snippet technique #59
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 620-629
+
+- sujet: Snippet technique #60
+  tag: network
+  fichier: admin_sys.md
+  lignes: 630-639
+
+- sujet: Snippet technique #61
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 640-649
+
+- sujet: Snippet technique #62
+  tag: python
+  fichier: outils_cli.md
+  lignes: 650-659
+
+- sujet: Snippet technique #63
+  tag: vba
+  fichier: automatisation.md
+  lignes: 660-669
+
+- sujet: Snippet technique #64
+  tag: git
+  fichier: outils_cli.md
+  lignes: 670-679
+
+- sujet: Snippet technique #65
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 680-689
+
+- sujet: Snippet technique #66
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 690-699
+
+- sujet: Snippet technique #67
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 700-709
+
+- sujet: Snippet technique #68
+  tag: make
+  fichier: automatisation.md
+  lignes: 710-719
+
+- sujet: Snippet technique #69
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 720-729
+
+- sujet: Snippet technique #70
+  tag: network
+  fichier: admin_sys.md
+  lignes: 730-739
+
+- sujet: Script de tri Outlook automatique par regex
+  tag: vba
+  fichier: automatisation.md
+  lignes: 730-739
+
+- sujet: Logger Python vers fichier et console avec format
+  tag: python
+  fichier: automatisation.md
+  lignes: 740-749
+
+- sujet: Redirection d’un script .bat silencieusement via VBS
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 750-759
+
+- sujet: Extrait réel #4
+  tag: git
+  fichier: outils_cli.md
+  lignes: 760-769
+
+- sujet: Extrait réel #5
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 770-779
+
+- sujet: Extrait réel #6
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 780-789
+
+- sujet: Extrait réel #7
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 790-799
+
+- sujet: Extrait réel #8
+  tag: make
+  fichier: automatisation.md
+  lignes: 800-809
+
+- sujet: Extrait réel #9
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 810-819
+
+- sujet: Extrait réel #10
+  tag: network
+  fichier: admin_sys.md
+  lignes: 820-829
+
+- sujet: Extrait réel #11
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 830-839
+
+- sujet: Extrait réel #12
+  tag: python
+  fichier: outils_cli.md
+  lignes: 840-849
+
+- sujet: Extrait réel #13
+  tag: vba
+  fichier: automatisation.md
+  lignes: 850-859
+
+- sujet: Extrait réel #14
+  tag: git
+  fichier: outils_cli.md
+  lignes: 860-869
+
+- sujet: Extrait réel #15
+  tag: windows
+  fichier: admin_sys.md
+  lignes: 870-879
+
+- sujet: Extrait réel #16
+  tag: regex
+  fichier: outils_cli.md
+  lignes: 880-889
+
+- sujet: Extrait réel #17
+  tag: powershell
+  fichier: admin_sys.md
+  lignes: 890-899
+
+- sujet: Extrait réel #18
+  tag: make
+  fichier: automatisation.md
+  lignes: 900-909
+
+- sujet: Extrait réel #19
+  tag: ansible
+  fichier: automatisation.md
+  lignes: 910-919
+
+- sujet: Extrait réel #20
+  tag: network
+  fichier: admin_sys.md
+  lignes: 920-929
+
+- sujet: Extrait réel #21
+  tag: bash
+  fichier: outils_cli.md
+  lignes: 930-939
+
+- sujet: Extrait réel #22
+  tag: python
+  fichier: outils_cli.md
+  lignes: 940-949
+
+- sujet: Extrait réel #23
+  tag: vba
+  fichier: automatisation.md
+  lignes: 950-959
+
+- sujet: Démarrer un conteneur avec volume monté
+  tag: docker
+  fichier: docker_k8s.md
+  lignes: 960-969
+
+- sujet: Créer un pod simple en YAML
+  tag: kubernetes
+  fichier: docker_k8s.md
+  lignes: 970-979
+
+- sujet: Créer un mot de passe sécurisé en ligne de commande
+  tag: security
+  fichier: securite.md
+  lignes: 980-989
+
+- sujet: Configurer fail2ban pour SSH
+  tag: security
+  fichier: securite.md
+  lignes: 990-999
+

@@ -1,0 +1,34 @@
+---
+version: "2025.05.13"
+generated: "2025-05-13T07:12:50"
+profile_name: "IA_Florian"
+description: >
+  Profil IA complet et évolutif de Florian Maillard. Cette version constitue la base de référence vivante à partir duquel l'assistant s'adapte, apprend et agit.
+
+structure:
+  - 00_profil/: identité, fonctionnement, intentions
+  - 01_prompts/: prompts optimisés et personnels
+  - 02_usages/: bilans, cartographies
+  - 03_projets/: projets en cours
+  - 04_templates/: modèles liturgiques et pro
+  - 05_archives/: éléments figés à conserver
+  - 06_graphisme/: prompts pour dall-e
+  - 07_diffusion/: canaux et routines de diffusion de livrables générés par l'IA
+  - automation/: routines, scripts de maintenance
+  - cache/: mémoire de conversations.json
+  - contextes/: mémoire de l'assistant local
+  - modules/: 
+  - modules/:
+      - geopolitique/: réflexion guerre/climat
+      - liturgique/: vie paroissiale
+      - professionnel/: certification, tâches CAF
+      - spirituel/: discernement, effusion
+
+routines:
+  - Vérification quotidienne de `éléments_perdus_en_transition.md`
+  - Résumé hebdomadaire chaque dimanche
+  - Déclencheurs implicites : `#bilan_mensuel`, `#log_projet`, `#archive_prompt`
+
+notes:
+  - Cette base ne sera jamais remplacée, uniquement enrichie.
+  - Chaque fichier peut évoluer comme un neurone actif.

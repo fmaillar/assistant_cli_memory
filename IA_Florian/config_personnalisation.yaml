@@ -1,0 +1,5 @@
+assistant:
+  mode: automatique
+  profil: IA_Florian
+  hallucination_indicator: true
+  jours_jeune: [mercredi, vendredi]

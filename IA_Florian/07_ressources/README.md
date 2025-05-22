@@ -1,0 +1,102 @@
+# 🧠 Sommaire des connaissances techniques
+
+- **Création récursive de dossiers dans Outlook via VBA** (`automatisation.md` ligne 10-19) – *vba*
+- **Redirection silencieuse de script BAT avec VBS** (`admin_sys.md` ligne 20-29) – *windows*
+- **Boucle shell avec affichage formaté par fichier** (`outils_cli.md` ligne 30-39) – *bash*
+- **Snippet technique #4** (`outils_cli.md` ligne 40-49) – *bash*
+- **Snippet technique #5** (`outils_cli.md` ligne 50-59) – *python*
+- **Snippet technique #6** (`automatisation.md` ligne 60-69) – *vba*
+- **Snippet technique #7** (`outils_cli.md` ligne 70-79) – *git*
+- **Snippet technique #8** (`admin_sys.md` ligne 80-89) – *windows*
+- **Snippet technique #9** (`outils_cli.md` ligne 90-99) – *regex*
+- **Snippet technique #10** (`admin_sys.md` ligne 100-109) – *powershell*
+- **Snippet technique #11** (`automatisation.md` ligne 110-119) – *make*
+- **Snippet technique #12** (`automatisation.md` ligne 120-129) – *ansible*
+- **Snippet technique #13** (`admin_sys.md` ligne 130-139) – *network*
+- **Snippet technique #11** (`outils_cli.md` ligne 140-149) – *bash*
+- **Snippet technique #12** (`outils_cli.md` ligne 150-159) – *python*
+- **Snippet technique #13** (`automatisation.md` ligne 160-169) – *vba*
+- **Snippet technique #14** (`outils_cli.md` ligne 170-179) – *git*
+- **Snippet technique #15** (`admin_sys.md` ligne 180-189) – *windows*
+- **Snippet technique #16** (`outils_cli.md` ligne 190-199) – *regex*
+- **Snippet technique #17** (`admin_sys.md` ligne 200-209) – *powershell*
+- **Snippet technique #18** (`automatisation.md` ligne 210-219) – *make*
+- **Snippet technique #19** (`automatisation.md` ligne 220-229) – *ansible*
+- **Snippet technique #20** (`admin_sys.md` ligne 230-239) – *network*
+- **Snippet technique #21** (`outils_cli.md` ligne 240-249) – *bash*
+- **Snippet technique #22** (`outils_cli.md` ligne 250-259) – *python*
+- **Snippet technique #23** (`automatisation.md` ligne 260-269) – *vba*
+- **Snippet technique #24** (`outils_cli.md` ligne 270-279) – *git*
+- **Snippet technique #25** (`admin_sys.md` ligne 280-289) – *windows*
+- **Snippet technique #26** (`outils_cli.md` ligne 290-299) – *regex*
+- **Snippet technique #27** (`admin_sys.md` ligne 300-309) – *powershell*
+- **Snippet technique #28** (`automatisation.md` ligne 310-319) – *make*
+- **Snippet technique #29** (`automatisation.md` ligne 320-329) – *ansible*
+- **Snippet technique #30** (`admin_sys.md` ligne 330-339) – *network*
+- **Snippet technique #31** (`outils_cli.md` ligne 340-349) – *bash*
+- **Snippet technique #32** (`outils_cli.md` ligne 350-359) – *python*
+- **Snippet technique #33** (`automatisation.md` ligne 360-369) – *vba*
+- **Snippet technique #34** (`outils_cli.md` ligne 370-379) – *git*
+- **Snippet technique #35** (`admin_sys.md` ligne 380-389) – *windows*
+- **Snippet technique #36** (`outils_cli.md` ligne 390-399) – *regex*
+- **Snippet technique #37** (`admin_sys.md` ligne 400-409) – *powershell*
+- **Snippet technique #38** (`automatisation.md` ligne 410-419) – *make*
+- **Snippet technique #39** (`automatisation.md` ligne 420-429) – *ansible*
+- **Snippet technique #40** (`admin_sys.md` ligne 430-439) – *network*
+- **Snippet technique #41** (`outils_cli.md` ligne 440-449) – *bash*
+- **Snippet technique #42** (`outils_cli.md` ligne 450-459) – *python*
+- **Snippet technique #43** (`automatisation.md` ligne 460-469) – *vba*
+- **Snippet technique #44** (`outils_cli.md` ligne 470-479) – *git*
+- **Snippet technique #45** (`admin_sys.md` ligne 480-489) – *windows*
+- **Snippet technique #46** (`outils_cli.md` ligne 490-499) – *regex*
+- **Snippet technique #47** (`admin_sys.md` ligne 500-509) – *powershell*
+- **Snippet technique #48** (`automatisation.md` ligne 510-519) – *make*
+- **Snippet technique #49** (`automatisation.md` ligne 520-529) – *ansible*
+- **Snippet technique #50** (`admin_sys.md` ligne 530-539) – *network*
+- **Snippet technique #51** (`outils_cli.md` ligne 540-549) – *bash*
+- **Snippet technique #52** (`outils_cli.md` ligne 550-559) – *python*
+- **Snippet technique #53** (`automatisation.md` ligne 560-569) – *vba*
+- **Snippet technique #54** (`outils_cli.md` ligne 570-579) – *git*
+- **Snippet technique #55** (`admin_sys.md` ligne 580-589) – *windows*
+- **Snippet technique #56** (`outils_cli.md` ligne 590-599) – *regex*
+- **Snippet technique #57** (`admin_sys.md` ligne 600-609) – *powershell*
+- **Snippet technique #58** (`automatisation.md` ligne 610-619) – *make*
+- **Snippet technique #59** (`automatisation.md` ligne 620-629) – *ansible*
+- **Snippet technique #60** (`admin_sys.md` ligne 630-639) – *network*
+- **Snippet technique #61** (`outils_cli.md` ligne 640-649) – *bash*
+- **Snippet technique #62** (`outils_cli.md` ligne 650-659) – *python*
+- **Snippet technique #63** (`automatisation.md` ligne 660-669) – *vba*
+- **Snippet technique #64** (`outils_cli.md` ligne 670-679) – *git*
+- **Snippet technique #65** (`admin_sys.md` ligne 680-689) – *windows*
+- **Snippet technique #66** (`outils_cli.md` ligne 690-699) – *regex*
+- **Snippet technique #67** (`admin_sys.md` ligne 700-709) – *powershell*
+- **Snippet technique #68** (`automatisation.md` ligne 710-719) – *make*
+- **Snippet technique #69** (`automatisation.md` ligne 720-729) – *ansible*
+- **Snippet technique #70** (`admin_sys.md` ligne 730-739) – *network*
+- **Script de tri Outlook automatique par regex** (`automatisation.md` ligne 730-739) – *vba*
+- **Logger Python vers fichier et console avec format** (`automatisation.md` ligne 740-749) – *python*
+- **Redirection d’un script .bat silencieusement via VBS** (`admin_sys.md` ligne 750-759) – *windows*
+- **Extrait réel #4** (`outils_cli.md` ligne 760-769) – *git*
+- **Extrait réel #5** (`admin_sys.md` ligne 770-779) – *windows*
+- **Extrait réel #6** (`outils_cli.md` ligne 780-789) – *regex*
+- **Extrait réel #7** (`admin_sys.md` ligne 790-799) – *powershell*
+- **Extrait réel #8** (`automatisation.md` ligne 800-809) – *make*
+- **Extrait réel #9** (`automatisation.md` ligne 810-819) – *ansible*
+- **Extrait réel #10** (`admin_sys.md` ligne 820-829) – *network*
+- **Extrait réel #11** (`outils_cli.md` ligne 830-839) – *bash*
+- **Extrait réel #12** (`outils_cli.md` ligne 840-849) – *python*
+- **Extrait réel #13** (`automatisation.md` ligne 850-859) – *vba*
+- **Extrait réel #14** (`outils_cli.md` ligne 860-869) – *git*
+- **Extrait réel #15** (`admin_sys.md` ligne 870-879) – *windows*
+- **Extrait réel #16** (`outils_cli.md` ligne 880-889) – *regex*
+- **Extrait réel #17** (`admin_sys.md` ligne 890-899) – *powershell*
+- **Extrait réel #18** (`automatisation.md` ligne 900-909) – *make*
+- **Extrait réel #19** (`automatisation.md` ligne 910-919) – *ansible*
+- **Extrait réel #20** (`admin_sys.md` ligne 920-929) – *network*
+- **Extrait réel #21** (`outils_cli.md` ligne 930-939) – *bash*
+- **Extrait réel #22** (`outils_cli.md` ligne 940-949) – *python*
+- **Extrait réel #23** (`automatisation.md` ligne 950-959) – *vba*
+- **Démarrer un conteneur avec volume monté** (`docker_k8s.md` ligne 960-969) – *docker*
+- **Créer un pod simple en YAML** (`docker_k8s.md` ligne 970-979) – *kubernetes*
+- **Créer un mot de passe sécurisé en ligne de commande** (`securite.md` ligne 980-989) – *security*
+- **Configurer fail2ban pour SSH** (`securite.md` ligne 990-999) – *security*

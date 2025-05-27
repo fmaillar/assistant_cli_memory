@@ -1,0 +1,5 @@
+ID,Exigence,Applicable,Justification
+REQ-001,Doit respecter la norme EN 50126,Oui,Projet ferroviaire
+REQ-002,Test d’endurance sur 500 cycles,Non,Composant remplacé avant échéance
+REQ-003,Certification CE requise,Oui,Directive 2006/42/CE
+

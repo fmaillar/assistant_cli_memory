@@ -1,1 +1,5 @@
+*.json
+*.env
+client_secret_*.json
 *.pyc
+mem0ai/

@@ -20,3 +20,8 @@ scripts:
   starter_interactif:
     path: entrypoints/starter_interactif.py
     description: Session interactive IA_Florian avec chargement du profil et historique
+
+  documents_light:
+    path: entrypoints/main_documents_light.py
+    description: Traitement local de documents (.md, .txt, .csv) avec résumé par GPT-4o
+

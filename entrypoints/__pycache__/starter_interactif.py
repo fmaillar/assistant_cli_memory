@@ -21,12 +21,21 @@ while True:
             break
 
         contexte.ajouter_user(prompt)
-        response = client.chat.completions.create(
-            model="gpt-4o",
-            messages=contexte.exporter(),
-            temperature=0.4
-        )
-        reply = response.choices[0].message.content.strip()
+        try:
+            response = client.chat.completions.create(
+                model="gpt-4o",
+                messages=contexte.exporter(max_messages=8),
+                temperature=0.4
+            )
+            reply = response.choices[0].message.content.strip()
+        except openai.RateLimitError as e:
+            print("⚠️ API GPT-4o : trop de tokens envoyés. Réduction nécessaire.")
+            continue
+        except Exception as e:
+            reply = f"❌ Erreur lors de l'appel API : {e}"
+            print(f"\n{reply}\n")
+            continue
+        
         print(f"\n🤖 IA > {reply}\n")
         contexte.ajouter_ia(reply)
         contexte.sauvegarder()

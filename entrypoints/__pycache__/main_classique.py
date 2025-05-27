@@ -108,13 +108,17 @@ def lancer_session_classique():
                 "content": [{"type": "text", "text": prompt}]
             })
 
-            response = client.chat.completions.create(
-                model="gpt-4o",
-                messages=messages,
-                temperature=0.4
-            )
+            try:
+                response = client.chat.completions.create(
+                    model="gpt-4o",
+                    messages=messages,
+                    temperature=0.4
+                )
 
-            reply = response.choices[0].message.content.strip()
+                reply = response.choices[0].message.content.strip()
+            except Exception as e:
+                print(f"❌ Erreur API : {e}")
+                return
             print_colored(f"\n🤖 IA > {reply}\n", "cyan")
 
             messages.append({
@@ -129,3 +133,7 @@ def lancer_session_classique():
             break
         except Exception as e:
             print(f"\n[ERREUR] {e}\n")
+
+if __name__ == "__main__":
+    lancer_session_classique()
+

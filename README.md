@@ -26,3 +26,12 @@ Ce répertoire constitue la base de fonctionnement de l'assistant personnel IA_F
 - Ajout du fichier `psychologie_sante.md`
 - Réactivation du fichier `profil_strategique_florian.md`
 - Restructuration de fichiers critiques vides
+
+## 🧪 Tests
+
+Les tests unitaires s'exécutent avec `pytest`.
+
+```bash
+pip install -r requirements.txt
+pytest
+```

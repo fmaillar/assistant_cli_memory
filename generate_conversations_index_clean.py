@@ -22,7 +22,7 @@ if not INPUT_JSON.exists():
 with open(INPUT_JSON, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-# === EXTRACTION DES EXTRUITS UTILES ===
+# === EXTRACTION DES EXTRAITS UTILES ===
 index_conversations = []
 for i, conv in enumerate(data[:MAX_CONV]):
     messages = conv.get("mapping", {})

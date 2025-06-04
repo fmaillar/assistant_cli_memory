@@ -6026,7 +6026,7 @@
      9	- `03_projets/` : fichiers liés aux projets actifs (discernement, STI, paroisse)
     10	- `04_templates/` : template de sortie
     11	- `05_archives/` : anciennes conversations, ...
-    12	- `06_graphisme/` : prompst pour dall-e notemment
+    12	- `06_graphisme/` : prompts pour dall-e notamment
     13	- `07_diffusion/` : anticipation d'envoi par IA
     14	- `automation/` : scripts shell d’export et de tâches automatisées
     15	- `cache/` : extrait pratique du conversations.json (trop lourd pour être traité en entier)

@@ -6,10 +6,11 @@ from pathlib import Path
 # === CONFIGURATION ===
 INPUT_JSON = Path("IA_Florian/05_archives/conversations/conversations_2025-05-15.json")
 OUTPUT_YAML = Path("IA_Florian/cache/conversations_index_clean.yaml")
+
 MAX_CONV = 40   # conversations maximum à indexer
 MAX_EXTRACT = 1 # messages par conversation
 MAX_LEN = 250   # longueur maximale de l'extrait
-MIN_LEN = 30    # longueur minimale pour qu'un extrait soit conservé
+MIN_LEN = 30    # longueur minimale d'un message retenu
 
 # === NOUVELLE LIMITE DE SÉCURITÉ GLOBALE (approximative) ===
 MAX_TOTAL_CHARS = 9000  # limite globale (≈ 3000 tokens GPT)
@@ -23,7 +24,7 @@ if not INPUT_JSON.exists():
 with open(INPUT_JSON, "r", encoding="utf-8") as f:
     data = json.load(f)
 
-# === EXTRACTION DES EXTRUITS UTILES ===
+# === EXTRACTION DES EXTRAITS UTILES ===
 index_conversations = []
 for i, conv in enumerate(data[:MAX_CONV]):
     messages = conv.get("mapping", {})

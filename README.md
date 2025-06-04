@@ -9,7 +9,7 @@ Ce répertoire constitue la base de fonctionnement de l'assistant personnel IA_F
 - `03_projets/` : fichiers liés aux projets actifs (discernement, STI, paroisse)
 - `04_templates/` : template de sortie
 - `05_archives/` : anciennes conversations, ...
-- `06_graphisme/` : prompst pour dall-e notemment
+- `06_graphisme/` : prompts pour dall-e notamment
 - `07_diffusion/` : anticipation d'envoi par IA
 - `automation/` : scripts shell d’export et de tâches automatisées
 - `cache/` : extrait pratique du conversations.json (trop lourd pour être traité en entier)
@@ -26,3 +26,12 @@ Ce répertoire constitue la base de fonctionnement de l'assistant personnel IA_F
 - Ajout du fichier `psychologie_sante.md`
 - Réactivation du fichier `profil_strategique_florian.md`
 - Restructuration de fichiers critiques vides
+
+## 🧪 Tests
+
+Les tests unitaires s'exécutent avec `pytest`.
+
+```bash
+pip install -r requirements.txt
+pytest
+```

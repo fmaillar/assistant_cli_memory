@@ -6,6 +6,7 @@ from pathlib import Path
 # === CONFIGURATION ===
 INPUT_JSON = Path("IA_Florian/05_archives/conversations/conversations_2025-05-15.json")
 OUTPUT_YAML = Path("IA_Florian/cache/conversations_index_clean.yaml")
+
 MAX_CONV = 40   # conversations maximum à indexer
 MAX_EXTRACT = 1 # messages par conversation
 MAX_LEN = 250   # longueur maximale de l'extrait

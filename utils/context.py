@@ -3,7 +3,10 @@ import os
 import json
 from pathlib import Path
 
-CONTEXT_DIR = Path("IA_Florian/contextes")
+# Les contextes sont stockés à la racine du projet dans le dossier
+# `contextes`. L'ancien chemin "IA_Florian/contextes" n'existait pas et
+# entraînait la création involontaire d'un dossier inutile.
+CONTEXT_DIR = Path("contextes")
 CONTEXT_DIR.mkdir(parents=True, exist_ok=True)
 
 def context_path(nom_session: str) -> Path:
